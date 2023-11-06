@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&section=header&text=TaeGwon%20You&fontSize=40&fontAlignY=30&fontAlign=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=150&section=header&text=Donggu%20kwon&fontSize=40&fontAlignY=30&fontAlign=20)
 
 > **About Me**
 - 🏫 I'm currently studying at Chung-Ang University, in South Korea.
