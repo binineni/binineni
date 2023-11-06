@@ -2,14 +2,16 @@
 
 > **About Me**
 - 🏫 I'm currently studying at Chung-Ang University, in South Korea.
-- 📊 I'm majoring in Applied Statistics.
+- 🧑🏻‍💻 I'm majoring in Applied Statistics and Computer Science.
 - ❤️‍🔥 I'm interested in NLP and various study related to data.
 
 
 > **Prize & Experience**
 - 🏆 제4회 중앙대학교 경영경제대학 학술제 우수상
 - 🏆 제5회 대구 빅데이터 분석 경진대회 소비자 부문 최우수상
-- 🍊 BITAmin(빅데이터 연합 동아리) 11기
+- 🏆 2023 미래에셋 빅데이터 페스티벌 빅데이터 부문 우수상
+- 🍊 BITAmin(빅데이터 연합 동아리) 10기
+- 📊 CAUFRI(재무연구회) 42기
 
 
 > **Tech Stack**
@@ -20,5 +22,4 @@
 
 
 > **Contacts**
-- ytg000629@naver.com
-- https://tgwon.tistory.com/
+- donggu5654@naver.com
