@@ -3,7 +3,7 @@
 > **About Me**
 - 🏫 I'm currently studying at Chung-Ang University, in South Korea.
 - 🧑🏻‍💻 I'm majoring in Applied Statistics and Computer Science.
-- ❤️‍🔥 I'm interested in NLP and various study related to data.
+- ❤️‍🔥 I'm interested in various study related to data.
 
 
 > **Prize & Experience**
@@ -16,8 +16,8 @@
 > **Certificate**
 - SQLD
 - ADsP
-- 사회조사분석사 2급
 - 컴퓨터활용능력 1급
+- 사회조사분석사 2급
 
 > **Tech Stack**
 
