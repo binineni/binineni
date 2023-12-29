@@ -23,8 +23,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-4479A1?logo=C&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white"> <img src="https://img.shields.io/badge/SPSS-3B5998?logo=IBM&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/Colab-#F9AB00?logo=Colab&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?logo=Colab&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 
 > **Contacts**
 - sook7205@naver.com
