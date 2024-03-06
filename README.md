@@ -18,7 +18,7 @@
 > **Certificate**
 - ADsP
 - 컴퓨터활용능력 1급
-- SQLD(진)
+- SQLD
 
 
 > **Tech Stack**
