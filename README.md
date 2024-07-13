@@ -14,7 +14,7 @@
 - 🏆 제5회 중앙대학교 경영경제대학 학술제 **[우수상](https://github.com/binineni/2024_acamedic_festival)**
 - 🏆 CUAI 6기 동계 컨퍼런스 **[대상](https://github.com/binineni/IPO_Indicators_CS)**
 - 🏆 제7회 미래에셋증권 빅데이터 페스티벌 빅데이터 부문 **[우수상](https://github.com/binineni/IPO_Indicators_CS)**
-- 🏆 2024년 여성가족부 공공데이터 융·복합 아이디어 및 분석·활용 공모전 **[대상](**[우수상](https://github.com/binineni/IPO_Indicators_CS)**)**
+- 🏆 2024년 여성가족부 공공데이터 융·복합 아이디어 및 분석·활용 공모전 **[대상](https://github.com/binineni/MGEF_analysis_competition)**
 - 🌊 TAVE(Technology Wave, 4차 산업혁명 동아리) 데이터 분석 11기
 - 📊 CUAI(중앙대학교 인공지능 학회) 6기
 - 🐘 BOAZ(빅데이터 연합 동아리) 분석 22기
